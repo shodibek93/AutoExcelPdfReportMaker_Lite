@@ -68,7 +68,7 @@ https://codecanyon.net/item/autoexcel-pdf-report-maker-pro-excel-to-pdf-converte
 ---
 
 ## ⚙️ System Requirements
-- OS: Windows 7, 8, 10, 11  
+- OS: Windows 10, 11  
 - RAM: 2 GB or higher  
 - Storage: recommended ≥ 30 GB  
 - No installation required  
