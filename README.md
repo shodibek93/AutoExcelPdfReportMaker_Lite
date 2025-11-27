@@ -86,6 +86,3 @@ For commercial projects, please use the Pro version.
 <a href="https://buymeacoffee.com/shodibek" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" >
 </a>
-
-❤️ Author
-Shodibek
